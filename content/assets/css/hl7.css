@@ -30,7 +30,7 @@
   margin-left: 6px;
 }
 #hl7-search {
-  line-height: 50px;
+  line-height: 55px;
   float: right;
   margin-top: 4px;
   color: maroon;
@@ -46,7 +46,7 @@
   color: #808080;
 }
 #project-logo {
-  float: left;
+  float: right;
   margin-left: 3px;
 }
 
